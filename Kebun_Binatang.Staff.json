@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "676cae3c1cd9542cad03844a"
+  },
+  "ID": "Zoo_Staff-001",
+  "Nama": "Achmad Julian Daffa",
+  "Alamat": "Jl. Palmerah Barat No. 2A",
+  "Umur": "20 tahun",
+  "Jenis Kelamin": "Laki-laki",
+  "Bidang Kerja": "Penjaga Kebun Binatang"
+}]

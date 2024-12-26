@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "676cacdd53968ae59e58e67d"
+  },
+  "ID": "Elp-001",
+  "Umur": "29 tahun",
+  "Jenis Kelamin": "Jantan",
+  "Binatang": "Gajah"
+},
+{
+  "_id": {
+    "$oid": "676cad5953968ae59e58e67e"
+  },
+  "ID": "Monk-001",
+  "Binatang": "Monyet",
+  "Umur": "12 tahun",
+  "Jenis Kelamin": "Betina"
+},
+{
+  "_id": {
+    "$oid": "676caeba53968ae59e58e67f"
+  },
+  "ID": "Tig-001",
+  "Nama Binatang": "Harimau",
+  "Umur": "15 tahun",
+  "Jenis Kelamin": "Jantan"
+}]
